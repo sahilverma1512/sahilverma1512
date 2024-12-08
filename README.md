@@ -2,7 +2,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Satendra kaushik
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sahil Verma
 ========================================================================================================================================
 
 Crafting Code and Building Dreams: Engineer Extraordinaire 💻✨"
@@ -11,7 +11,7 @@ Crafting Code and Building Dreams: Engineer Extraordinaire 💻✨"
 
 - 👨‍💻 All of my projects are available at [linkedin.com/in/satendra-kaushik]([www.linkedin.com/in/satendra-kaushik](https://www.linkedin.com/in/satendra-kaushik/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
-- 📫 How to reach me **satendrakaushik2002@gmail.com**
+- 📫 How to reach me **sahilverma1512@gmail.com**
 
 - ⚡ Fun fact **Code Creator and Dream Builder | Turning Ideas into Reality 🚀 | Tea Lover ☕**
 
@@ -19,7 +19,7 @@ Crafting Code and Building Dreams: Engineer Extraordinaire 💻✨"
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/satendra-kaushik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satendra kaushik" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sahil-1512-verma?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sahil Verma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,7 +28,7 @@ Crafting Code and Building Dreams: Engineer Extraordinaire 💻✨"
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/satendraka6"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/satendraka6" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satendrakaushik&show_icons=true&locale=en&layout=compact" alt="satendrakaushik" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilverma1512&show_icons=true&locale=en&layout=compact" alt="Sahilverma" /></p>
 
 
 <br><br><br><br><br><br>
